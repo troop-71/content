@@ -1,8 +1,8 @@
 ---
-title: March 7-9th campout at Hoxie cabin
+title: 2025-03-07 Hoxie cabin
 description: 
 published: true
-date: 2025-04-08T01:56:35.027Z
+date: 2025-04-08T02:14:08.532Z
 tags: campout
 editor: markdown
 dateCreated: 2025-04-08T01:56:35.027Z

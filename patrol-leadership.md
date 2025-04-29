@@ -2,7 +2,7 @@
 title: Patrol Leadership
 description: Election results from our August 26th meeting
 published: true
-date: 2024-08-27T00:57:34.928Z
+date: 2025-04-29T17:37:01.760Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-27T00:56:59.890Z
@@ -10,11 +10,9 @@ dateCreated: 2024-08-27T00:56:59.890Z
 
 # Patrol Leadership
 
-Senior Patrol Leader: Carson
-Assistant Patrol Leader: Maddy
-Quartermaster: Connor
-Scribe: Adrian
+Senior Patrol Leader: Connor
+Assistant Patrol Leader: Adrian
+Quartermaster: Joe
+Scribe: Carson
 Chaplain Aide: Able
-Historian: George and Joe
-Order of the Arrow Representative: Daniel and Luke
-Troop Guide: Ben, Jack, Quinton
+Historians: Emery and Luke

@@ -1,8 +1,8 @@
 ---
-title: 2025-06-08 Maquoketa Caves
+title: 2025-06-06 Maquoketa Caves
 description: 
 published: true
-date: 2025-05-20T02:43:21.284Z
+date: 2025-05-20T02:43:47.439Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T01:26:48.448Z

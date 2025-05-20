@@ -2,7 +2,7 @@
 title: 2025-06-06 Maquoketa Caves
 description: 
 published: true
-date: 2025-05-20T02:43:47.439Z
+date: 2025-05-20T03:10:36.999Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T01:26:48.448Z
@@ -11,6 +11,7 @@ dateCreated: 2025-05-15T01:26:48.448Z
 # Maquoketa Caves
 Friday June 6th, 3pm: Leave St Teresa's parking lot in Des Moines
 Sunday Une 8th, 1pm: Return to St Teresa's parking
+**[Permission slip](/maquketa_caves_permission_slip.pdf)**
 
 ## Links
 

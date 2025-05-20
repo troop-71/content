@@ -2,13 +2,15 @@
 title: 2025-06-08 Maquoketa Caves
 description: 
 published: true
-date: 2025-05-20T02:41:15.833Z
+date: 2025-05-20T02:43:21.284Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T01:26:48.448Z
 ---
 
 # Maquoketa Caves
+Friday June 6th, 3pm: Leave St Teresa's parking lot in Des Moines
+Sunday Une 8th, 1pm: Return to St Teresa's parking
 
 ## Links
 
@@ -61,9 +63,6 @@ Expect cold temeratures inside caves
 Only enter caves in a group of three or more. Don't try to go somewhere everyone in your group can't easily fit.
 
 ## Itinery
-
-Leave Des Moines Friday at 3pm
-Return to Des Moines Sunday at 1pm
 
 ### Events
 

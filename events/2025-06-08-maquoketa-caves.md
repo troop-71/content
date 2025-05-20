@@ -2,7 +2,7 @@
 title: 2025-06-08 Maquoketa Caves
 description: 
 published: true
-date: 2025-05-20T01:37:39.178Z
+date: 2025-05-20T02:41:15.833Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T01:26:48.448Z
@@ -99,7 +99,7 @@ Return to Des Moines Sunday at 1pm
     - Leave Maquoketa
 
 ### Meals
-Cooking supplies: propane griddletop, mixing bowl, spatula, pot, cutting board, knife, serving spoon, foil, 
+Cooking supplies: propane griddletop, mixing bowl, spatula, pot, cutting board, knife, serving spoon, foil
 Rough head count: 12 scouts, 6 adults. We'll prep for 20 total.
 
 - Friday, June 6th

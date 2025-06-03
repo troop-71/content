@@ -2,7 +2,7 @@
 title: 2025-06-06 Maquoketa Caves
 description: 
 published: true
-date: 2025-06-03T00:32:28.969Z
+date: 2025-06-03T00:35:15.042Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T01:26:48.448Z
@@ -51,8 +51,7 @@ Expect cold temeratures inside caves
   
 - Caving supplies
   - Clothes that can be thrown away
-    - Warm clothes
-    - Freedom of movement
+    - Warm clothes with good freedom of movement
   - Disposable, close toed shoes
   - Helmet, a bike helmet for example
   - Flashlights

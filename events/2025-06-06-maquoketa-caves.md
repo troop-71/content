@@ -2,7 +2,7 @@
 title: 2025-06-06 Maquoketa Caves
 description: 
 published: true
-date: 2025-06-03T00:35:15.042Z
+date: 2025-06-10T01:25:26.463Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T01:26:48.448Z
@@ -12,6 +12,8 @@ dateCreated: 2025-05-15T01:26:48.448Z
 Friday June 6th, 3:30pm: Leave [Windsor United Method](https://g.co/kgs/7MPpmhw)'s parking lot in Des Moines
 Sunday Une 8th, 1pm: Return to Windsor United Method's parking
 **[Permission slip](/maquketa_caves_permission_slip.pdf)**
+
+## [Pictures](/events/2025-06-06-maquoketa-caves-pictures)
 
 ## Links
 

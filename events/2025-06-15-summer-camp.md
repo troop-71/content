@@ -2,7 +2,7 @@
 title: 2025-06-15: Summer camp!
 description: 
 published: true
-date: 2025-06-03T01:15:04.732Z
+date: 2025-06-10T00:55:01.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T01:07:54.103Z
@@ -22,21 +22,6 @@ Please fill out the anual physical form: https://www.scouting.org/health-and-saf
 - [Map](https://maps.app.goo.gl/WQNQcR1QHdpVzG8j8)
 - [2025 Camp Guide](https://campiowa.org/wp-content/uploads/2025/03/2025-Mitigwa-Program-Guide.pdf)
 
-## Packing list
+## [Packing list](/what_to_bring.pdf)
 
-- Sleeping bag
-- Tent
-- Bug Spray
-- Sunscreen
-- Clothes
-  - Five changes of clothes
-  - Long pants
-  - Jacket
-  - Hiking shoes/boots
-  - Spare shoes
-  - Rain gear
-  - Hat
-  - Pajamas
-- Toiletries
-- Canteen/water bottle
-- Mess kit
+## [Merit badge itinerary](/scout_summary_2025_06_03.pdf)
